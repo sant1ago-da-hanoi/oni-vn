@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONI VN EX-1 S10-461546 (DLC)\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-05-24 16:12+0700\n"
+"PO-Revision-Date: 2021-06-04 14:09+0700\n"
 "Last-Translator: Nguyễn Thái Bảo <baomit01@gmail.com>\n"
 "Language-Team: ONI VN Translators (facebook.com/groups/VN.ONI)\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: translateonivn\n"
 "X-Crowdin-Project-ID: 432828\n"
@@ -25,7 +25,7 @@ msgstr "Sử dụng: {0}"
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
 msgid "This building has been used {0} times"
-msgstr "Công trình này đã được sử dụng {0} lần"
+msgstr "Công trình đã được sử dụng {0} lần"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
@@ -38,8 +38,8 @@ msgid ""
 "Some Duplicants are prohibited from passing through this door by the current "
 "<style=\"KKeyword\">Access Permissions</style>"
 msgstr ""
-"Một số thằng đệ bị cấm đi qua cánh cửa này bởi <style=\"KKeyword\">Quyền Truy "
-"Cập</style> hiện tại"
+"Một số thằng đệ không đi qua cánh cửa này được do <style=\"KKeyword\">Quyền Truy "
+"Cập</style> hiện tại không cho phép"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
@@ -55,6 +55,7 @@ msgid ""
 "style> is restored"
 msgstr ""
 "Cánh cửa này đã được cấp <style=\"KKeyword\">Quyền Truy Cập</style>\n"
+" khẩn cấp\n"
 "----------\n"
 "Tất cả thằng Đệ có thể đi qua đến khi nguồn <style=\"KKeyword\">Điện</style> được "
 "phục hồi"
@@ -62,12 +63,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
 msgid "Damage: Duplicant Tantrum"
-msgstr "Phá hoại: do Đệ phá khi bị Stress"
+msgstr "Hư hại: do Đệ phá khi bị Stress"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
 msgid "Building Damage: Duplicant Tantrum"
-msgstr "Công trình bị phá hoại: do Đệ phá khi bị Stress"
+msgstr "Công trình hư hại: do Đệ phá khi bị Stress"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
@@ -75,10 +76,7 @@ msgid ""
 "Stressed Duplicants are damaging these buildings:\n"
 "\n"
 "{0}"
-msgstr ""
-"Thằng Đệ bị stress nặng đang phá hoại công trình:\n"
-"\n"
-"{0}"
+msgstr "{0} thằng Đệ bị stress nặng đang phá hoại công trình"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
@@ -88,27 +86,27 @@ msgstr "Thằng Đệ bị stress đang phá hoại công trình"
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME"
 msgid "Assigned to: Public"
-msgstr "Chỉ định cho: Công cộng"
+msgstr "Chỉ định: Công cộng"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP"
 msgid "Any Duplicant can use this amenity"
-msgstr "Bất kỳ thằng Đệ nào đều có thể sử dụng tiện nghi này"
+msgstr "Thằng Đệ nào cũng có thể sử dụng tiện nghi này"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr "Gán cho: {Assignee}"
+msgstr "Chỉ định: {Assignee}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr "Chỉ {Assignee} có thể sử dụng tiện nghi này"
+msgstr "Chỉ {Assignee} mới có thể sử dụng tiện nghi này"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.NAME"
 msgid "Assigned to: {0}"
-msgstr "Gán cho: {0}"
+msgstr "Chỉ định: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP"
@@ -116,13 +114,13 @@ msgid ""
 "Any Duplicant assigned to this <style=\"KKeyword\">Room</style> can use this "
 "amenity"
 msgstr ""
-"Bất kỳ thằng Đệ nào được chỉ định cho <style=\"KKeyword\">Phòng</style> này thì "
-"đều có thể sử dung tiện nghi này"
+"<style=\"KKeyword\">Phòng</style> được cấp cho những thằng Đệ nào thì những thằng "
+"Đệ ấy được dùng"
 
 #. STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.NAME"
 msgid "Autopilot Engaged"
-msgstr "Lái Tự Động Đang Bận"
+msgstr "Chế độ lái Tự Động Đang Bận"
 
 #. STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AUTOPILOTACTIVE.TOOLTIP"
@@ -131,9 +129,9 @@ msgid ""
 "\n"
 "It can resume full speed once a Duplicant pilot takes over"
 msgstr ""
-"Tên lửa này đã vào chế độ lái tự động và sẽ bay với tốc độ giảm\n"
+"Tên lửa đã bật chế độ lái tự động và sẽ bay với tốc độ vừa phải\n"
 "\n"
-"Nó có thể tiếp tục tốc độ tối đa khi một phi công Thằng Đệ tiếp quản"
+"Khi một phi công tiếp quản, tên lửa sẽ quay trở lại với tốc độ tối đa"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
@@ -143,7 +141,7 @@ msgstr "Tác phẩm chưa hoàn thành"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "This building requires a Duplicant's artistic touch"
-msgstr "Công trình này cần có Đệ là Nghệ Sĩ động vào"
+msgstr "Công trình cần có Đệ là Nghệ Sĩ động vào"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
@@ -153,7 +151,7 @@ msgstr "Đang chờ mồi"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Bait</style>"
-msgstr "Đang chờ phân phối <style=\"KKeyword\">Mồi</style> đã chọn"
+msgstr "Đang chờ phân phối loại <style=\"KKeyword\">Mồi</style> đã chọn"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -163,23 +161,22 @@ msgstr "Yêu cầu trộn"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <link=\"DIRT\">Dirt</link>"
-msgstr ""
-"Phân trộn cần được trộn theo định kỳ để sản xuất ra <link=\"DIRT\">Đất</link>"
+msgstr "Phân trộn cần được trộn định kỳ để sản xuất ra <link=\"DIRT\">Đất</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.NAME"
 msgid "Awaiting Delivery"
-msgstr "Chờ cung cấp"
+msgstr "Đang chờ cung cấp"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Egg</style>"
-msgstr "Đang chờ phân phối <style=\"KKeyword\">Trứng</style> đã chọn"
+msgstr "Đang chờ phân phối loại <style=\"KKeyword\">Trứng</style> đã chọn"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME"
 msgid "Empty Errand"
-msgstr "Công việc trống"
+msgstr "Không có công việc nào"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.TOOLTIP"
@@ -189,22 +186,22 @@ msgstr "Công trình sẽ được vận hành khi đệ làm việc"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME"
 msgid "Awaiting Fuel: {0}"
-msgstr "Đang chờ nguyên liệu: {0}"
+msgstr "Đang chờ nhiên liệu: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP"
 msgid "This building requires <b>{1}</b> of {0} to operate"
-msgstr "Công trình này yêu cầu <b>{1}</b> trong số {0} để hoạt động"
+msgstr "Công trình yêu cầu <b>{1}</b> trong số {0} để hoạt động"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
 msgid "Awaiting Delivery"
-msgstr "Chờ cung cấp"
+msgstr "Đang chờ cung cấp"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"KKeyword\">Seed</style>"
-msgstr "Chờ cung cấp <style=\"KKeyword\">Hạt Giống</style> đã chọn"
+msgstr "Chờ cung cấp loại <style=\"KKeyword\">Hạt Giống</style> đã chọn"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
@@ -240,7 +237,7 @@ msgstr "Pin đầy"
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP"
 msgid "All batteries are above the refill threshold"
-msgstr "Tất cả pin đều nằm trên ngưỡng sạc"
+msgstr "Tất cả pin đều nằm trên ngưỡng cần sạc"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME"
@@ -268,7 +265,7 @@ msgid ""
 "<link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> to bring to this location"
 msgstr ""
 "Đệ sẽ không thể lấy <style=\"KKeyword\">Chất Lỏng</style> đóng chai từ các <link="
-"\"LIQUIDPUMPINGSTATION\">Máy bơm tay</link> để mang đến vị trí này"
+"\"LIQUIDPUMPINGSTATION\">Máy bơm tay</link> để mang đến đây"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
@@ -282,9 +279,9 @@ msgid ""
 "\n"
 "It will not function until it receives repairs"
 msgstr ""
-"Công trình nhận thiệt hại từ <b>{DamageInfo}</b>\n"
+"Công trình hỏng hóc do <b>{DamageInfo}</b>\n"
 "\n"
-"Nó sẽ không hoạt động cho đến khi nó được sửa"
+"Cần sửa để hoạt động trở lại"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME"
@@ -310,7 +307,7 @@ msgid ""
 "Press <style=\"KKeyword\">Enable Building</style> <b><color=#F44A4A>[ENTER]</b></"
 "color> to resume use"
 msgstr ""
-"Nhấn <style=\"KKeyword\">Cho phép xây dựng</style> <b><color=#F44A4A>[ENTER]</"
+"Nhấn nút <style=\"KKeyword\">Bật công trình</style> <b><color=#F44A4A>[ENTER]</"
 "style></b> để tiếp tục sử dụng"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
@@ -390,7 +387,7 @@ msgstr "Trạng thái: Không cho phép đi qua"
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED"
 msgid "No Automation"
-msgstr "Không tự động"
+msgstr "Không có hệ thống tự động"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN"
@@ -421,12 +418,12 @@ msgid ""
 "b>, preventing Duplicants from passing"
 msgstr ""
 "Điểm tự động đang ở trạng thái <b><style=\"logic_off\">Tín hiệu Đỏ</style></b>, "
-"ngăn cản Đệ đi qua"
+"Đệ không đi qua được"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME"
 msgid "Medical building outside Hospital"
-msgstr "Công trình y khoa nằm ngoài Bệnh viện"
+msgstr "Công trình y khoa đang nằm ngoài Bệnh viện"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP"
