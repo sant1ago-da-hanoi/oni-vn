@@ -88,8 +88,8 @@
 
 |Element|Temperature|Result|ByProduct|
 | --- | --- | --- | --- |
-| Liquid Sulfur      | 337→444.7℃       |Sulfur Gas||
-Polluted Water|119.4→80℃|Steam → Water|1% Dirt → 5% Polluted Dirt
+| Liquid Sulfur      | 337 → 444.7℃       |Sulfur Gas||
+Polluted Water|119.4 → 80℃|Steam → Water|1% Dirt → 5% Polluted Dirt
 Sour Gas|-161.5℃|Methane|33% → 10% Sulfur
 Super Insulator|3621.9 → 2621.9℃|Molten Tungsten|15% Bottled Sulfur Gas → Not bottled
 Crude Oil|400℃|Petroleum|Non → 5% Refined Carbon
