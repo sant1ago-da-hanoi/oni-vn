@@ -1,7 +1,7 @@
 # oni-vn
 # Bản dịch game Oxygen Not Included chính thức của team ONI-VN
 
-##THÔNG TIN BẢN DỊCH
+## THÔNG TIN BẢN DỊCH
 - Tương thích (Compatible with): `EX-1 S11-464434` hoặc mới hơn (or later)
 - Ngày cập nhật gần nhất (Last update): `24/5/2021`
 
