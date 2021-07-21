@@ -43,12 +43,12 @@
 `Iron (Liquid)`|7870|6980
 `Niobium (Liquid)`|3870|7600
 `Copper (Liquid)`|3870|7992
-`Cobalt (Liquid)`|7870→8860
-`Lead (Liquid)`|9970→10660
-`Mercury (Liquid)`|1000→13690
-`Uranium (Liquid)`|9970→17300
-`Gold (Liquid)`|9970→17310
-`Tungsten (Liquid)`|3870→17600
+`Cobalt (Liquid)`|7870|8860
+`Lead (Liquid)`|9970|10660
+`Mercury (Liquid)`|1000|13690
+`Uranium (Liquid)`|9970|17300
+`Gold (Liquid)`|9970|17310
+`Tungsten (Liquid)`|3870|17600
 
 ### Phase transition
 
