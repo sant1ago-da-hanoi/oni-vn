@@ -3,52 +3,52 @@
 ## Adjust Phase transition
 
 ### Molar Mass
-|Elements|Old|New|
+|Elements (Gas)|Old|New|
 |:---|:---|:---|
-|`Carbon (Gas)`|12.0107|26.346
-`Chlorine (Gas)`|34.453|70.905
-`Polluted Oxygen (Gas)`|15.9994|32.159
-`Hydrogen (Gas)`|1.00794|2.01588
-`Oxygen (Gas)`|15.9994|31.9988
-`Phosphorus (Gas)`|30.97376|123.895
-`Rock Gas (Gas)`|50|116
-`Salt (Gas)`|50|58.44
-`Sour Gas (Gas)`|19.044|21.331
-`Steam (Gas)`|13.01528|18.0153
-`Sulfur (Gas)`|32|256.52
+|`Carbon`|12.0107|26.346
+`Chlorine`|34.453|70.905
+`Polluted Oxygen`|15.9994|32.159
+`Hydrogen`|1.00794|2.01588
+`Oxygen`|15.9994|31.9988
+`Phosphorus`|30.97376|123.895
+`Rock Gas`|50|116
+`Salt`|50|58.44
+`Sour Gas`|19.044|21.331
+`Steam`|13.01528|18.0153
+`Sulfur`|32|256.52
 
 ### Max capacity (kilogram per tile)
-|Element|Old|New|
+|Element (Liquid)|Old|New|
 |:---|:---|:---|
-`Hydrogen (Liquid)`|1000|71
-`Helium (Liquid)`|1000|125
-`Propane (Liquid)`|1000|493
-`SYNGAS (Liquid)`|1000|580
-`Naphtha (Liquid)`|740|650
-`Methane (Liquid)`|1000|717
-`Ethanol (Liquid)`|1000|789
-`Polluted Water (Liquid)`|1000|1030
-`Salt Water (Liquid)`|1100|1043
-`Carbon Dioxide (Liquid)`|2000|1101
-`Oxygen (Liquid)`|500|1141
-`Brine (Liquid)`|1200|1287
-`Glass (Liquid)`|1840|1400
-`Sucrose (Liquid)`|740|1520
-`Salt (Liquid)`|740|1550
-`Chlorine (Liquid)`|1000|1563
-`Carbon (Liquid)`|4000|1600
-`Phosphorus (Liquid)`|1000|1740
-`Liquid Sulfur (Liquid)`|740|1819
-`Magma (Liquid)`|1840|2300
-`Iron (Liquid)`|7870|6980
-`Niobium (Liquid)`|3870|7600
-`Copper (Liquid)`|3870|7992
-`Cobalt (Liquid)`|7870|8860
-`Lead (Liquid)`|9970|10660
-`Mercury (Liquid)`|1000|13690
-`Uranium (Liquid)`|9970|17300
-`Gold (Liquid)`|9970|17310
-`Tungsten (Liquid)`|3870|17600
+`Hydrogen`|1000|71
+`Helium`|1000|125
+`Propane`|1000|493
+`SYNGAS`|1000|580
+`Naphtha`|740|650
+`Methane`|1000|717
+`Ethanol`|1000|789
+`Polluted Water`|1000|1030
+`Salt Water`|1100|1043
+`Carbon Dioxide`|2000|1101
+`Oxygen`|500|1141
+`Brine`|1200|1287
+`Glass`|1840|1400
+`Sucrose`|740|1520
+`Salt`|740|1550
+`Chlorine`|1000|1563
+`Carbon`|4000|1600
+`Phosphorus`|1000|1740
+`Liquid Sulfur`|740|1819
+`Magma`|1840|2300
+`Iron`|7870|6980
+`Niobium`|3870|7600
+`Copper`|3870|7992
+`Cobalt`|7870|8860
+`Lead`|9970|10660
+`Mercury`|1000|13690
+`Uranium`|9970|17300
+`Gold`|9970|17310
+`Tungsten`|3870|17600
 
 ### Phase transition
 
