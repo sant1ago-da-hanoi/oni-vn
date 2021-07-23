@@ -11,20 +11,24 @@
 - Hủy Subscribe MOD Tiếng Việt rồi Subscribe lại
 - Restart Game!
 
-## Dịch và biên soạn bởi (Translate by) O.N.I VN Translators Team:
-->> (Quality of Life Upgrade Mk III - cho đến nay)
+## Biên dịch bởi (Translate by) O.N.I VN Translators Team:
+> (The Breath Of Fresh Air - cho đến nay)
+- [`Hoài Nam`](fb.com/sant1ago.da.hanoi)
+
+> (Quality of Life Upgrade Mk III - cho đến nay)
 - [`Nguyễn Thái Bảo`](https://fb.com/chuotktpm)
-- [`Hoàng Long`](https://fb.com/pseryuu) (AU to Cosmic Upgrade)
+> (AU to Cosmic Upgrade) (retired)
+- [`Hoàng Long`](https://fb.com/pseryuu)
 - [`Sj (T Minh Nguyen)`](https://fb.com/sj.dev.96)
 - [`Thanh Hải Nguyễn`](https://fb.com/bluesea1112)
 - [`Phạm Anh Tú`](https://fb.com/hanakihide)
 - [`Nguyễn Minh Trung`](https://fb.com/satanVM)
 
-->> RockNtry Upgrade & SIU (retired)
+> RockNtry Upgrade & SIU (retired)
 - `Đào Khắc Thắng` - SU 284634-290532->
 - `Lê Lộc` - Su 290xxx ->
 
-->> [Group O.N.I VN](https://fb.com/groups/VN.ONI)
+> ### [Group O.N.I VN](https://fb.com/groups/VN.ONI)
 
 Do not copy, edit without permission from the author.
 In case you want to repost or share this file/pack, please include all the infomation of O.N.I VN Translators Team & the Volunteers.
