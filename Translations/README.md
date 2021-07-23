@@ -7,7 +7,7 @@
 
 ## Nếu bản dịch mới không tự update, hãy làm theo các bước sau:
 - Vào game (Để ở màn hình chính)
-- Xóa thư mục "1714866600" theo đường dẫn `Documents\Klei\OxygenNotIncluded\mods\Steam`
+- Xóa thư mục "1714866600" theo đường dẫn `Documents\Klei\OxygenNotIncluded\mods\Steam\1714866600`
 - Hủy Subscribe MOD Tiếng Việt rồi Subscribe lại
 - Restart Game!
 
@@ -17,6 +17,7 @@
 
 > (Quality of Life Upgrade Mk III - cho đến nay)
 - [`Nguyễn Thái Bảo`](https://fb.com/chuotktpm)
+
 > (AU to Cosmic Upgrade) (retired)
 - [`Hoàng Long`](https://fb.com/pseryuu)
 - [`Sj (T Minh Nguyen)`](https://fb.com/sj.dev.96)
