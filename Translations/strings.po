@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONI VN EX-1 S10-461546 (DLC)\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-23 22:56+0700\n"
+"PO-Revision-Date: 2021-07-24 10:37+0700\n"
 "Last-Translator: Hoài Nam <sant1ago.da.hanoi@outlook.com>\n"
 "Language-Team: ONI VN Translators (facebook.com/groups/VN.ONI)\n"
 "Language: vi\n"
@@ -991,8 +991,8 @@ msgid ""
 "Producing <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> at <style=\"produced"
 "\">{FlowRate}</style>"
 msgstr ""
-"Thải ra <link=\"CARBONDIOXIDE\">CO2</link>, tốc độ: <style=\"produced\">{FlowRate}</"
-"style>"
+"Thải ra <link=\"CARBONDIOXIDE\">Carbonic</link>, tốc độ: <style=\"produced"
+"\">{FlowRate}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME"
@@ -4783,7 +4783,7 @@ msgid ""
 "Gains a 10% efficiency boost in direct <link=\"LIGHT\">Light</link>."
 msgstr ""
 "Tiêu thụ <link=\"ALGAE\">Tảo</link> để tạo ra <link=\"OXYGEN\">Oxy</link> và loại bỏ "
-"một lượng <link=\"CARBONDIOXIDE\">CO2</link>.\n"
+"một lượng <link=\"CARBONDIOXIDE\">Carbonic</link>.\n"
 "\n"
 "Tăng thêm 10% hiệu quả khi được <link=\"LIGHT\">Chiếu sáng</link>."
 
@@ -5719,11 +5719,11 @@ msgid ""
 "\n"
 "The engine of a rocket must be built first before more rocket modules can be added."
 msgstr ""
-"Sử dụng <link=\"CARBONDIOXIDE\">CO2</link> áp suất cao để đẩy tên lửa cho các cuộc "
-"thám hiểm không gian tầm ngắn.\n"
+"Sử dụng <link=\"CARBONDIOXIDE\">Carbonic</link> áp suất cao để đẩy tên lửa cho các "
+"cuộc thám hiểm không gian tầm ngắn.\n"
 "\n"
-"Động cơ CO2 là động cơ tương đối nhanh với kích thước nhỏ bé của chúng nhưng có hạn "
-"chế về chiều cao.\n"
+"Động cơ Carbonic là động cơ tương đối nhanh với kích thước nhỏ bé của chúng nhưng có "
+"hạn chế về chiều cao.\n"
 "\n"
 "Động cơ của tên lửa phải được chế tạo trước trước khi có thể bổ sung thêm nhiều "
 "module tên lửa."
@@ -5731,14 +5731,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CO2ENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2ENGINE.NAME"
 msgid "<link=\"CO2ENGINE\">Carbon Dioxide Engine</link>"
-msgstr "<link=\"CO2ENGINE\">Động Cơ CO2</link>"
+msgstr "<link=\"CO2ENGINE\">Động Cơ Carbonic</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
 msgid "Skimmers remove large amounts of carbon dioxide, but produce no breathable air."
 msgstr ""
-"Máy lọc CO2 loại bỏ lượng lớn khí Carbon dioxide nhưng lại không tạo ra bất khí loại "
-"khí thở được nào."
+"Máy lọc Carbonic loại bỏ lượng lớn khí Carbon dioxide nhưng lại không tạo ra bất khí "
+"loại khí thở được nào."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
@@ -5746,13 +5746,13 @@ msgid ""
 "Uses <link=\"WATER\">Water</link> to filter <link=\"CARBONDIOXIDE\">Carbon Dioxide</"
 "link> from the air."
 msgstr ""
-"Dùng <link=\"WATER\">Nước</link> để loại bỏ <link=\"CARBONDIOXIDE\">CO2</link> ra "
-"khỏi không khí."
+"Dùng <link=\"WATER\">Nước</link> để loại bỏ <link=\"CARBONDIOXIDE\">Carbonic</link> "
+"ra khỏi không khí."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "<link=\"CO2SCRUBBER\">Carbon Skimmer</link>"
-msgstr "<link=\"CO2SCRUBBER\">Máy lọc CO2</link>"
+msgstr "<link=\"CO2SCRUBBER\">Máy lọc Carbonic</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.DESC"
@@ -6270,8 +6270,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC"
 msgid ""
 "Sick bays can be placed in hospital rooms to decrease the likelihood of disease "
 "spreading."
-msgstr ""
-"Khu chữa trị có thể được đặt trong phòng bệnh viện để giảm khả năng lây lan bệnh."
+msgstr "Bệnh xá có thể được đặt trong phòng bệnh viện để giảm khả năng lây lan bệnh."
 
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.EFFECT"
@@ -7640,7 +7639,7 @@ msgid ""
 msgstr ""
 "Chuyển đổi <link=\"CARBON\">Than đá</link> thành <link=\"POWER\">Điện năng</link>.\n"
 "\n"
-"Thải ra khí <link=\"CARBONDIOXIDE\">CO2</link>."
+"Thải ra khí <link=\"CARBONDIOXIDE\">Carbonic</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
@@ -11610,7 +11609,7 @@ msgid ""
 msgstr ""
 "Chuyển đổi <link=\"METHANE\">Khí Gas</link> thành <link=\"POWER\">Điện năng</link>.\n"
 "\n"
-"Thải ra khí <link=\"CARBONDIOXIDE\">CO2</link> và <link=\"DIRTYWATER\">Nước bẩn</"
+"Thải ra khí <link=\"CARBONDIOXIDE\">Carbonic</link> và <link=\"DIRTYWATER\">Nước bẩn</"
 "link>."
 
 #. STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.NAME
@@ -12595,7 +12594,7 @@ msgstr ""
 "Chuyển đổi <link=\"PETROLEUM\">Petroleum</link> hoặc <link=\"ETHANOL\">Ethanol</link> "
 "thành <link=\"POWER\">Điện năng</link>.\n"
 "\n"
-"Thải ra khí <link=\"CARBONDIOXIDE\">CO2</link> và <link=\"DIRTYWATER\">Nước bẩn</"
+"Thải ra khí <link=\"CARBONDIOXIDE\">Carbonic</link> và <link=\"DIRTYWATER\">Nước bẩn</"
 "link>."
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME
@@ -14642,7 +14641,7 @@ msgid ""
 "\n"
 "Consuming soda water increases Duplicant <link=\"MORALE\">Morale</link>."
 msgstr ""
-"Tạo soda từ <link=\"WATER\">Nước</link> và <link=\"CARBONDIOXIDE\">CO2</link>.\n"
+"Tạo soda từ <link=\"WATER\">Nước</link> và <link=\"CARBONDIOXIDE\">Carbonic</link>.\n"
 "\n"
 "Uống nước soda giúp đệ tăng <link=\"MORALE\">Tinh thần</link>."
 
@@ -15433,8 +15432,8 @@ msgstr ""
 "Đốt <link=\"SUCROSE\">Đường</link> để phóng tên lửa cho các cuộc thám hiểm không gian "
 "tầm ngắn.\n"
 "\n"
-"Động cơ đường có \"Chiều Cao\" cao hơn so với <link=\"CO2ENGINE\">Động Cơ CO2</link>, "
-"nhưng di chuyển chậm hơn.\n"
+"Động cơ đường có \"Chiều Cao\" cao hơn so với <link=\"CO2ENGINE\">Động Cơ Carbonic</"
+"link>, nhưng di chuyển chậm hơn.\n"
 "\n"
 "Động cơ của tên lửa phải được chế tạo dưới cùng trước khi bổ sung thêm các module tên "
 "lửa khác."
@@ -16532,7 +16531,7 @@ msgid ""
 msgstr ""
 "Đốt <link=\"WOOD\">Gỗ</link> để tạo ra <link=\"POWER\">Điện</link>.\n"
 "\n"
-"Sản sinh ra rất nhiều <link=\"CARBONDIOXIDE\">CO2</link> và sinh <link=\"HEAT"
+"Sản sinh ra rất nhiều <link=\"CARBONDIOXIDE\">Carbonic</link> và sinh <link=\"HEAT"
 "\">Nhiệt</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.WOODGASGENERATOR.NAME
@@ -24381,8 +24380,8 @@ msgid ""
 "carbon dioxide concentrations."
 msgstr ""
 "Dương Xỉ có lẽ có sự trao đổi chất cao nhất trong giới thực vật, hấp thụ một lượng "
-"tương đối lớn CO2 và chuyển hóa nó thành oxy với số lượng khá ít ỏi với kích thước "
-"nhỏ bé của chúng.\n"
+"tương đối lớn Carbonic và chuyển hóa nó thành oxy với số lượng khá ít ỏi với kích "
+"thước nhỏ bé của chúng.\n"
 "\n"
 "Sau đó, chúng phát triển mạnh ở những khu vực có nhiều động vật hoang dã hoặc xung "
 "quanh có nồng độ carbon dioxide cao."
@@ -25450,7 +25449,7 @@ msgstr ""
 "hydrocacbon có cấu tạo gần như giống hệt với dầu thô.\n"
 "\n"
 "Hai chiếc búi nhô ra trên đầu của Slickster là các thụ thể hóa học giúp chúng định "
-"hướng đến nguồn khí CO2 cần thiết để duy trì sự sống của chúng."
+"hướng đến nguồn khí Carbonic cần thiết để duy trì sự sống của chúng."
 
 #. STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE"
@@ -28425,12 +28424,12 @@ msgid ""
 "\"CARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
 "Một mạch khí ngầm có áp suất cao, thường xuyên phun ra <link=\"CARBONDIOXIDE\">Khí "
-"CO2</link> nóng."
+"Carbonic</link> nóng."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.NAME"
 msgid "<link=\"GEYSERGENERICHOTCO2\">Carbon Dioxide Vent</link>"
-msgstr "<link=\"GEYSERGENERICHOTCO2\">Mạch khí CO2</link>"
+msgstr "<link=\"GEYSERGENERICHOTCO2\">Mạch khí Carbonic</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.DESC"
@@ -28495,12 +28494,12 @@ msgid ""
 "\"LIQUIDCARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
 "Một mạch khí ngầm có áp suất cao, thường xuyên phun ra dung dịch <link="
-"\"LIQUIDCARBONDIOXIDE\">CO2</link> nóng ."
+"\"LIQUIDCARBONDIOXIDE\">Carbonic</link> nóng ."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.NAME"
 msgid "<link=\"GEYSERGENERICLIQUIDCO2\">Carbon Dioxide Geyser</link>"
-msgstr "<link=\"GEYSERGENERICLIQUIDCO2\">Mạch CO2 Lỏng</link>"
+msgstr "<link=\"GEYSERGENERICLIQUIDCO2\">Mạch Carbonic Lỏng</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_SULFUR.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_SULFUR.DESC"
@@ -29405,8 +29404,8 @@ msgid ""
 "Slicksters are slimy critters that consume <link=\"CARBONDIOXIDE\">Carbon Dioxide</"
 "link> and exude <link=\"CRUDEOIL\">Crude Oil</link>."
 msgstr ""
-"Slickster là những sinh vật nhầy nhụa, chúng hấp thụ <link=\"CARBONDIOXIDE\">CO2</"
-"link> và thải ra <link=\"CRUDEOIL\">Dầu thô</link>."
+"Slickster là những sinh vật nhầy nhụa, chúng hấp thụ <link=\"CARBONDIOXIDE"
+"\">Carbonic</link> và thải ra <link=\"CRUDEOIL\">Dầu thô</link>."
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME"
@@ -29484,7 +29483,7 @@ msgid ""
 "Dioxide</link> and exude <link=\"PETROLEUM\">Petroleum</link>."
 msgstr ""
 "Slickster dung nham là những sinh vật nhầy nhụa, chúng hấp thụ <link=\"CARBONDIOXIDE"
-"\">CO2</link> và thải ra <link=\"CRUDEOIL\">Dầu hỏa</link>."
+"\">Carbonic</link> và thải ra <link=\"CRUDEOIL\">Dầu hỏa</link>."
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.EGG_NAME"
@@ -32689,9 +32688,9 @@ msgid ""
 "\n"
 "This effect reduces the severity of <style=\"KKeyword\">Disease</style> symptoms"
 msgstr ""
-"Các đệ được chăm sóc y tế khi ở trong <link=\"DOCTORSTATION\">Khu chữa trị</link> "
-"hoặc <link=\"ADVANCEDDOCTORSTATION\">Phòng khám bệnh</link> sẽ nhận được hiệu "
-"ứng<style=\"KKeyword\">Đã được điều trị</style> \n"
+"Các đệ được chăm sóc y tế khi ở trong <link=\"DOCTORSTATION\">Bệnh xá</link> hoặc "
+"<link=\"ADVANCEDDOCTORSTATION\">Phòng khám bệnh</link> sẽ nhận được hiệu ứng<style="
+"\"KKeyword\">Đã được điều trị</style> \n"
 "\n"
 "Hiệu ứng này làm giảm mức độ nghiêm trọng các triệu chứng của <style=\"KKeyword"
 "\">Bệnh tật</style>"
@@ -34702,7 +34701,7 @@ msgstr "Phản ứng phấn khởi"
 #. STRINGS.DUPLICANTS.CHORES.JOYREACTION.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.JOYREACTION.STATUS"
 msgid "Overjoyed"
-msgstr "Vui mừng quá mức"
+msgstr "Yêu đời"
 
 #. STRINGS.DUPLICANTS.CHORES.JOYREACTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.JOYREACTION.TOOLTIP"
@@ -41680,7 +41679,7 @@ msgstr "Thở ra {EmittingRate} CO<sub>2</sub>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Duplicants breathe out <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>"
-msgstr "Những thằng đệ thở ra <link=\"CARBONDIOXIDE\">CO2</link>"
+msgstr "Những thằng đệ thở ra <link=\"CARBONDIOXIDE\">Carbonic</link>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
@@ -42101,7 +42100,7 @@ msgid ""
 msgstr ""
 "Thằng Đệ này gần chết!\n"
 "------------------\n"
-"Gán cho nó Giường bệnh hoặc Khu chữa trị hoặc Buồng y tế để được cứu chữa"
+"Gán cho nó Giường bệnh hoặc Bệnh xá hoặc Buồng y tế để được cứu chữa"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.LASHINGOUT.NAME"
@@ -44411,7 +44410,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.DESC"
 msgid "Allows the excavation of the element <link=\"KATAIRITE\">Abyssalite</link>"
-msgstr "Cho phép khai thác <link=\"KATAIRITE\">Abyssalite</link>"
+msgstr "Đệ có thể đào được <link=\"KATAIRITE\">Abyssalite</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING2.NAME"
@@ -44438,9 +44437,8 @@ msgid ""
 "Allows the excavation of <style=\"KKeyword\">Nearly Impenetrable</style> elements, "
 "including <link=\"DIAMOND\">Diamond</link> and <link=\"OBSIDIAN\">Obsidian</link>"
 msgstr ""
-"Cho phép khai quật các vật liệu <style=\"KKeyword\">Gần như không thể xuyên thủng</"
-"style>, bao gồm <link=\"DIAMOND\">Kim cương</link> và <link=\"OBSIDIAN\">Obsidian</"
-"link>"
+"Đệ có thể đào được các vật liệu <style=\"KKeyword\">Siêu cứng</style>, bao gồm <link="
+"\"DIAMOND\">Kim cương</link> và <link=\"OBSIDIAN\">Obsidian</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING3.NAME"
@@ -44464,7 +44462,9 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.DESC"
 msgid "Allows the excavation of dangerous materials like <link=\"CORIUM\">Corium</link>"
-msgstr "Cho phép khai thác các vật liệu nguy hiểm như <link=\"CORIUM\">Corium</link>"
+msgstr ""
+"Cho phép khai thác các vật liệu trong môi trường nguy hiểm như <link=\"CORIUM"
+"\">Corium</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MINING4.NAME"
@@ -44488,7 +44488,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.DESC"
 msgid "Allows a Duplicant to handle and care for <link=\"CREATURES\">Critters</link>"
-msgstr "Cho phép Đệ xử lý và chăm sóc <link=\"CREATURES\">Các sinh vật</link>"
+msgstr "Đệ có khả năng xử lý và chăm sóc <link=\"CREATURES\">Các sinh vật</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME"
@@ -44538,9 +44538,7 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.DESC"
 msgid ""
 "Allows Duplicants to perform research using a <link=\"ADVANCEDRESEARCHCENTER\">Super "
 "Computer</link>"
-msgstr ""
-"Cho phép thằng đệ nghiên cứu bằng cách sử dụng <link=\"ADVANCEDRESEARCHCENTER\">Siêu "
-"Máy Tính</link>"
+msgstr "Cho đệ khả năng sử dụng <link=\"ADVANCEDRESEARCHCENTER\">Siêu Máy Tính</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING1.NAME"
@@ -44567,8 +44565,8 @@ msgid ""
 "Duplicants can perform studies on <style=\"KKeyword\">Geysers</style>, Planetoid, and "
 "other geographical phenomena"
 msgstr ""
-"Thằng Đệ có thể thực hiện các nghiên cứu về <style=\"KKeyword\">Mạch Ngầm</style>, "
-"<style=\"KKeyword\">Tiểu Hành Tinh</style>, Và các hiện tượng địa lý khác"
+"Cho đệ khả năng nghiên cứu về các <style=\"KKeyword\">Mạch Ngầm</style>, các <style="
+"\"KKeyword\">Tiểu Hành Tinh</style>, và các hiện tượng địa lý khác"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING2.NAME"
@@ -44594,8 +44592,8 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.DESC"
 msgid ""
 "Enables Duplicants to study outer space using the <link=\"TELESCOPE\">Telescope</link>"
 msgstr ""
-"Cho phép Thằng Đệ nghiên cứu ngoài không gian bằng cách sử dụng <link=\"TELESCOPE"
-"\">Kính viễn vọng</link>"
+"Cho đệ khả năng sử dụng <link=\"TELESCOPE\">Kính viễn vọng</link>, tìm hiểu về những "
+"vùng đất mới bên ngoài không gian"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING3.NAME"
@@ -44617,26 +44615,18 @@ msgstr ""
 "không tăng điểm <style=\"KKeyword\">Tinh thần yêu cầu</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.DESC
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.DESC"
-#| msgid ""
-#| "Enables Duplicants to study sub-atomic particles using the <link="
-#| "\"NUCLEARLABORATORY\">Atomic Collider</link>"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.DESC"
 msgid ""
 "Enables Duplicants to study matter using the <link=\"NUCLEARLABORATORY\">Materials "
 "Study Terminal</link>"
 msgstr ""
-"Cho phép Thằng Đệ nghiên cứu các hạt dưới nguyên tử bằng cách sử dụng <link="
-"\"NUCLEARLABORATORY\">Máy nghiên cứu nguyên tử</link>"
+"Cho đệ khả năng sử dụng <link=\"NUCLEARLABORATORY\">Trạm nghiên cứu vật chất</link> "
+"để làm các thí nghiệm liên quan đến hạt nhân nguyên tử"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
-#| msgid "Skilled: <link=\"NUCLEARRESEARCHER\">Atomic Research</link>"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
 msgid "Skilled: <link=\"NUCLEARRESEARCHER\">Materials Science Research</link>"
-msgstr "Kỹ năng <link=\"RESEARCHER\">Nghiên cứu nguyên tử</link>"
+msgstr "Kỹ năng <link=\"RESEARCHER\">Nghiên cứu vật chất</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
@@ -44655,12 +44645,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.DESC"
 msgid "Eliminates the runspeed loss experienced while wearing exosuits"
-msgstr "Tránh sự giảm tốc độ chạy khi mặc đồ bảo hộ"
+msgstr "Tránh sụt giảm tốc độ di chuyển khi mặc đồ bảo hộ"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.NAME"
 msgid "Skilled: <link=\"SUITEXPERT\">Exosuit Training</link>"
-msgstr "Kỹ Năng: <link=\"SUITEXPERT\">Kỹ Sư Dưỡng Khí</link>"
+msgstr "Kỹ Năng: <link=\"SUITEXPERT\">Kỹ Sư Đồ Bảo Hộ</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SUITS1.SHORT_DESC"
@@ -44679,7 +44669,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.DESC"
 msgid "Marginally improves a Duplicant's tinkering speeds"
-msgstr "Cải thiện một chút tốc độ tìm kiếm của thằng Đệ"
+msgstr "Cải thiện tốc độ di chuyển"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS1.NAME"
@@ -44706,8 +44696,8 @@ msgid ""
 "Enables generator <style=\"KKeyword\">Tune-Up</style>, which will temporarily provide "
 "improved <style=\"KKeyword\">Power</style> output"
 msgstr ""
-"Cho phép <style=\"KKeyword\">Điều chỉnh</style> máy phát, <style=\"KKeyword\">Điện</"
-"style> tạo ra sẽ tạm thời được cải thiện"
+"Cho đệ khả năng <style=\"KKeyword\">Tối ưu</style> các máy phát điện, cải thiện sản "
+"lượng <style=\"KKeyword\">Điện</style> sản xuất ra"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_TECHNICALS2.NAME"
@@ -44731,7 +44721,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC"
 msgid "This Duplicant likes to throw a wrench into the colony's plans... in a good way"
-msgstr "Thằng Đệ này thích xỏ cái mỏ lết vào mọi thứ"
+msgstr "Thích sửa chữa máy móc, đem theo chiếc cờ lê đi khắp mọi nơi"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
@@ -44741,17 +44731,17 @@ msgstr "Thợ máy"
 #. STRINGS.DUPLICANTS.TRAITS.GREENTHUMB.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREENTHUMB.DESC"
 msgid "This Duplicant regards every plant as a potential friend"
-msgstr "Thằng đệ này coi thực vật như một người bạn"
+msgstr "Coi cây cối như người thân trong gia đình"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREENTHUMB.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREENTHUMB.NAME"
 msgid "Green Thumb"
-msgstr "Ngón tay cái màu xanh lá cây"
+msgstr "Bàn tay màu lá"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC"
 msgid "This Duplicant is of delicate disposition and cannot tend to the sick"
-msgstr "Thằng Đệ này rất sợ máu mà không thể làm những việc liên quan đến y tế"
+msgstr "Nhìn thấy máu là ngất, không phù hợp làm nhân viên y tế"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME"
@@ -44761,7 +44751,7 @@ msgstr "Sợ máu"
 #. STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS"
 msgid "Immune to <b>{0}</b>"
-msgstr "Miễn dịch <b>{0}</b>"
+msgstr "Miễn dịch với <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS_TOOLTIP"
@@ -44771,17 +44761,17 @@ msgstr "{0}: {1}"
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
 msgid "\"Move it a little to the left...\""
-msgstr "\"Chỉ cần thêm một chút vào bên trái...\""
+msgstr "\"Sang trái, sang trái một chút… Oke đẹp rồi!\""
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
-msgstr "Trang trí nội thất"
+msgstr "Nhà trang trí nội thất"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick"
-msgstr "Thằng Đệ này có thể ăn bất cứ thứ gì mà không sợ bệnh"
+msgstr "Không bao giờ lo bị ngộ độc thực phẩm"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
@@ -44799,15 +44789,13 @@ msgid ""
 "Eating food contaminated with <link=\"FOODSICKNESS\">Food Poisoning</link> Germs will "
 "not affect this Duplicant"
 msgstr ""
-"Ăn thực phẩm bị nhiễm vi khuẩn <link=\"FOODSICKNESS\">E.coli</link> sẽ không ảnh "
-"hưởng đến thằng đệ này"
+"Đệ không cần lo khi lỡ ăn phải đồ ăn có dính <link=\"FOODSICKNESS\">Ngộ độc thực "
+"phẩm</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant needs a little extra time to \"do their business\""
-msgstr ""
-"Thằng Đệ này cần thêm nhiều thời gian hơn so với bình thường để giải quyết \"việc "
-"trọng đại\""
+msgstr "Tốn khá nhiều thời gian cho việc \"giải quyết nỗi buồn\""
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
@@ -44818,8 +44806,7 @@ msgstr "Chứng ruột kích thích"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.DESC"
 msgid ""
 "This Duplicant always invites friends over just to make them hook up their electronics"
-msgstr ""
-"Thằng đệ này luôn mời bạn bè đến chỉ để khiến họ kết nối thiết bị điện tử của họ"
+msgstr "Hay mời bạn bè đến nhà chơi, nhưng chỉ để dùng ké đồ điện tử của bạn -_-"
 
 #. STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.NAME"
@@ -44830,8 +44817,7 @@ msgstr "Bảo thủ"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
 msgid "They're great for tunneling, but finding good gloves is a nightmare"
 msgstr ""
-"Đôi bàn tay tuyệt tác trong việc đào hầm, nhưng tìm kiếm găng tay lại là một cơn ác "
-"mộng"
+"Đôi bàn tay có thể đào bới siêu tốt, nhưng khó mà tìm được đôi găng tay nào phù hợp"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
@@ -44843,7 +44829,7 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid ""
 "This Duplicant sucks up way more than their fair share of <link=\"OXYGEN\">Oxygen</"
 "link>"
-msgstr "Duplicant này hít thở <link=\"OXYGEN\">Oxy</link> nhiều như trâu"
+msgstr "Hít <link=\"OXYGEN\">Oxy</link> nhiều như trâu"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
@@ -44853,8 +44839,7 @@ msgstr "Mồm trâu"
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr ""
-"Thằng Đệ này có thể và sẽ chìm vào giấc ngủ tại bất cứ đâu và bất cứ thời điểm nào"
+msgstr "Thỉnh thoảng lại lăn đùng ra ngủ gật, bất cứ khi nào, ở bất cứ đâu"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
@@ -44864,19 +44849,19 @@ msgstr "Chứng ngủ rũ"
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC"
 msgid "Falls asleep periodically"
-msgstr "Ngủ định kỳ"
+msgstr "Hay ngái ngủ"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant's work will be periodically interrupted by naps"
-msgstr "Công việc của Đệ này sẽ bị gián đoạn định kỳ bởi những giấc ngủ ngắn"
+msgstr "Hay ngủ gật, khiến công việc bị gián đoạn"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC"
 msgid ""
 "This Duplicant feels suffocated in spaces fewer than four tiles high or three tiles "
 "wide"
-msgstr "Thằng Đệ này cảm thấy bị ngộp thở trong không gian hẹp với 4x3 ô gạch"
+msgstr "Cảm thấy không thoải mái trong không gian hẹp (4x3 ô gạch)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
@@ -44887,8 +44872,7 @@ msgstr "Chứng sợ không gian hẹp"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC"
 msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do flips"
-msgstr ""
-"Leo một cái cầu thang cao hơn 4 tầng sẽ làm cho dạ dày của thằng Đệ này lộn ngược"
+msgstr "Dễ buồn nôn khi trèo cao"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
@@ -44898,7 +44882,7 @@ msgstr "Dễ bị chóng mặt"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
-msgstr "Thằng Đệ này cảm thấy bị tổn thương khi phải mặc những trang phục lỗi thời"
+msgstr "Khó chịu khi phải mặc quần áo lỗi thời"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
@@ -44911,8 +44895,8 @@ msgid ""
 "This Duplicant has some extra <style=\"KKeyword\">Insulation</style>, so the room "
 "<style=\"KKeyword\">Temperature</style> affects them a little less"
 msgstr ""
-"Thằng Đệ này đang có trong người một số vật liệu <style=\"KKeyword\">Cách nhiệt</"
-"style>, vì vậy <style=\"KKeyword\">Nhiệt độ</style> trong phòng ít ảnh hưởng đến nó"
+"Trong người có nhiều mỡ, <style=\"KKeyword\">Cách nhiệt</style> tốt, vì vậy <style="
+"\"KKeyword\">Nhiệt độ</style> trong phòng ít ảnh hưởng đến nó"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME"
@@ -44925,8 +44909,8 @@ msgid ""
 "This Duplicant doesn't have much <style=\"KKeyword\">Insulation</style>, so they are "
 "more <style=\"KKeyword\">Temperature</style> sensitive than others"
 msgstr ""
-"Thằng Đệ này không có nhiều thứ để <style=\"KKeyword\">Cách nhiệt</style> (mỡ), vậy "
-"nên nó nhạy cảm với <style=\"KKeyword\">Nhiệt độ</style> hơn mấy thằng khác"
+"Ít mỡ, <style=\"KKeyword\">Cách nhiệt</style> kém, nhạy cảm với <style=\"KKeyword"
+"\">Nhiệt độ</style> hơn mấy thằng khác"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME"
@@ -44937,29 +44921,27 @@ msgstr "Gầy gò"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
 msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile than raw bedrock"
-msgstr ""
-"Thằng Đệ này có một sự nhạy cảm tuyệt đối và nó sẽ thích đi trên sàn nhà lát gạch hơn "
-"là đi trên đá tảng"
+msgstr "Gót chân khá nhạy cảm, thích chạy nhảy trên nền gạch hơn là mấy tảng đá"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
 msgid "Delicate Feetsies"
-msgstr "Đôi chân tinh tế"
+msgstr "Bàn chân nhạy cảm"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC"
 msgid "This Duplicant prefers to sleep alone"
-msgstr "Thằng Đệ này thích ngủ một mình"
+msgstr "Thích ngủ một mình"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME"
 msgid "Solitary Sleeper"
-msgstr "Ngủ một mình"
+msgstr "Thích ngủ một mình"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
-msgstr "Thằng Đệ này đang bức bối khi phải gác lại việc nghỉ ngơi"
+msgstr "Không thích rảnh rỗi, chỉ thích làm việc"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
@@ -44971,9 +44953,7 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.DESC"
 msgid ""
 "This Duplicant will imagine scary shapes in the dark all night if no one leaves a "
 "light on"
-msgstr ""
-"Thằng đệ này sẽ tưởng tượng ra những hình thù đáng sợ trong bóng tối suốt đêm nếu "
-"không có ai bật đèn"
+msgstr "\"Đi ngủ mà không bật đèn là sẽ gặp ma đó\""
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.NAME"
@@ -44983,18 +44963,17 @@ msgstr "Sợ Ma"
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC"
 msgid "Requires light to sleep"
-msgstr "Cần ánh sáng để ngủ"
+msgstr "Phải có ánh sáng mới ngủ được"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant can't sleep in complete darkness"
-msgstr "Thằng đệ này không thể ngủ trong bóng tối hoàn toàn"
+msgstr "Không thể ngủ trong phòng tối"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they'd ought to be sleeping"
-msgstr ""
-"Thằng Đệ này làm việc hiệu quả nhất trong khoảng thời gian mà đáng ra nó phải đi ngủ"
+msgstr "Làm việc hiệu quả hơn khi về đêm, lúc mà mọi người đang ngủ"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC"
@@ -45002,7 +44981,7 @@ msgid ""
 "• Nighttime: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\n"
 "• Duration: All Night"
 msgstr ""
-"•Ban đêm: +<b>{0}</b> tất cả <style=\"KKeyword\">Thuộc Tính</style>\n"
+"• Ban đêm: +<b>{0}</b> tất cả các điểm <style=\"KKeyword\">Thuộc Tính</style>\n"
 "• Thời lượng: Cả đêm"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
@@ -45013,7 +44992,7 @@ msgstr "Cú đêm"
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC"
 msgid "Gains nighttime Attribute bonuses"
-msgstr "Tăng thuộc tính về đêm"
+msgstr "Tăng chỉ số về đêm"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP"
@@ -45021,13 +45000,13 @@ msgid ""
 "Nighttime: <b>+3</b> bonus to all <style=\"KKeyword\">Attributes</style>\n"
 "• Duration: All Night"
 msgstr ""
-"•Ban đêm: <b>+3</b> tất cả <style=\"KKeyword\">Thuộc Tính</style>\n"
+"• Ban đêm: <b>+3</b> tất cả các điểm <style=\"KKeyword\">Thuộc Tính</style>\n"
 "• Thời lượng: Cả đêm"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid "This Duplicant's arms have all the tensile strength of overcooked linguine"
-msgstr "Cánh tay của thằng Đệ này mềm rã như một cộng bún bị nấu quá chín"
+msgstr "Tay mềm như cọng bún vậy"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
@@ -45037,7 +45016,7 @@ msgstr "Tay mềm như bún"
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC"
 msgid "This Duplicant just doesn't trust those beady little eyes"
-msgstr "Thằng đệ này chỉ không tin tưởng vào đôi mắt nhỏ đó"
+msgstr "Nhìn thấy động vật là thấy ghét"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME"
@@ -45050,8 +45029,8 @@ msgid ""
 "The fuzzy snoots! The little claws! The chitinous exoskeletons! This Duplicant's "
 "never met a critter they didn't like"
 msgstr ""
-"Những bộ lông xù! Những móng vuốt nhỏ! Những chiếc gai xương tinh xảo! Thằng đệ này "
-"chưa bao giờ gặp sinh vật mà họ không thích"
+"Những bộ lông xù này! Những chiếc móng be bé này! Những chiếc gai tí hon này! Sinh "
+"vật nào nó cũng yêu"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.NAME"
@@ -45061,32 +45040,32 @@ msgstr "Yêu động vật"
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Cannot do<b>{0} Errands</b>"
-msgstr "Không thể làm<b>{0} Việc vặt</b>"
+msgstr "Không thể làm <b>{0}</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
 msgid "This robust Duplicant is constantly regenerating health"
-msgstr "Thằng đệ có khả năng tái tạo cơ thể như Wolverine"
+msgstr "Có khả năng hồi phục nhanh như Wolverine"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME"
 msgid "Regenerative"
-msgstr "Sự tái tạo"
+msgstr "Siêu hồi phục"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC"
 msgid "This Duplicant's got muscles on their muscles!"
-msgstr "Tay của thằng đệ này có cơ bắp!"
+msgstr "Cơ bắp cuồn cuộn"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME"
 msgid "Beefsteak"
-msgstr "Bò nướng"
+msgstr "Thịt bò bít tết"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant abhors violence"
-msgstr "Thằng Đệ này ghét bạo lực"
+msgstr "Yêu màu hường, ghét bạo lực"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
@@ -45096,30 +45075,28 @@ msgstr "Yêu hòa bình"
 #. STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.DESC"
 msgid "This Duplicant could lick a Puft's backside and taste nothing"
-msgstr "Thằng đệ này có thể liếm mông của Puft và không thấy mùi vị gì"
+msgstr "Có thể liếm cả mông của Puft mà chẳng thấy vị gì"
 
 #. STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.NAME"
 msgid "Shrivelled Tastebuds"
-msgstr "Không có Vị giác"
+msgstr "Mất vị giác"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant's a little slow on the uptake, but gosh do they try"
-msgstr "Thằng Đệ này bị chậm hiểu chút ít, nhưng chúa đã làm cho hắn cố gắng nhiều hơn"
+msgstr "Hơi chậm hiểu, nhưng có cố gắng"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
-msgstr "Chậm hiểu"
+msgstr "Thiểu năng"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid ""
 "This Duplicant has a tiny, pea-sized <style=\"KKeyword\">Bladder</style>. Adorable!"
-msgstr ""
-"<style=\"KKeyword\">Bàng quang</style> của thằng Đệ này nhỏ bằng hạt đậu. Rất đáng "
-"yêu!"
+msgstr "<style=\"KKeyword\">Bàng quang</style> bé tí, bé như hạt đậu. Rất đáng yêu!"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
@@ -45129,7 +45106,7 @@ msgstr "Bàng quang bé"
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr "Trong vũ trụ, ai cũng có thể nghe thấy tiếng bạn ngáy"
+msgstr "Ngáy long trời lở đất, cả vũ trụ ai cũng nghe thấy"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
@@ -45144,7 +45121,7 @@ msgstr "Ngáy to"
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant's snoring will rudely awake nearby friends"
-msgstr "Thằng Đệ đang sử dụng thời gian nghỉ của nó để nói chuyện với bạn bè"
+msgstr "Ngáy lớn quá, bạn bè xung quanh không ngủ nổi"
 
 #. STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.DESC"
@@ -45152,13 +45129,13 @@ msgid ""
 "This Duplicant leaves a trail of happy sparkles when they are <style=\"KKeyword"
 "\">Overjoyed</style>"
 msgstr ""
-"Thằng đệ này để lại dấu vết lấp lánh hạnh phúc khi chúng <style=\"KKeyword\">Vui mừng "
-"quá mức</style>"
+"Khi yêu đời <style=\"KKeyword\">Yêu đời</style>, đệ sẽ có một vệt lấp lánh dưới chân "
+"khi di chuyển"
 
 #. STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME"
 msgid "Sparkle Streaker"
-msgstr "Vệt lấp lánh"
+msgstr "Tung tăng"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC"
@@ -45166,19 +45143,19 @@ msgid ""
 "This Duplicant will spontaneously redecorate a room when they are <style=\"KKeyword"
 "\">Overjoyed</style>"
 msgstr ""
-"Thằng đệ này sẽ tự động trang trí lại một căn phòng khi chúng <style=\"KKeyword\">Vui "
-"mừng quá mức</style>"
+"Khi <style=\"KKeyword\">Yêu đời</style>, đệ sẽ dán một chiếc sticker ở đâu đó trong "
+"phòng, nhìn hay phết"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME"
 msgid "Sticker Bomber"
-msgstr "Máy bay ném bom"
+msgstr "Thợ dán sticker"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid ""
 "This Duplicant is liable to puke everywhere when <style=\"KKeyword\">Stressed</style>"
-msgstr "Sẽ nôn ra khắp mọi nơi khi thằng Đệ này bị <style=\"KKeyword\">Stress</style>"
+msgstr "Khi bị <style=\"KKeyword\">Stress</style>, đệ sẽ nôn ọe khắp nơi"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
@@ -45188,17 +45165,17 @@ msgstr "Nôn mửa"
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant has muscles on their muscles"
-msgstr "Thằng Đệ này có cơ của cơ tay"
+msgstr "Cơ bắp cuồn cuộn"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
 msgid "Buff"
-msgstr "Được buff"
+msgstr "Tăng sức mạnh"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's immune system bounces back faster than most"
-msgstr "Thằng Đệ này có một hệ thống miễn dịch hồi phục nhanh hơn những người khác"
+msgstr "Hệ miễn dịch siêu khỏe, phục hồi nhanh"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
@@ -45208,19 +45185,18 @@ msgstr "Kháng khuẩn"
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC"
 msgid "This Duplicant has an unwaveringly positive outlook on life"
-msgstr "Thằng Đệ này có một góc nhìn tích cực về cuộc sống"
+msgstr "Đệ có một cái nhìn đầy tích cực về cuộc sống"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME"
 msgid "Sunny Disposition"
-msgstr "Bố trí đầy ánh sáng"
+msgstr "Cuộc đời tươi sáng"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.DESC"
 msgid ""
 "This Duplicant is super productive when they are <style=\"KKeyword\">Overjoyed</style>"
-msgstr ""
-"Thằng đệ này cực kỳ hiệu quả khi chúng <style=\"KKeyword\">Vui mừng quá mức</style>"
+msgstr "Khi yêu <style=\"KKeyword\">Yêu đời</style>, năng suất làm việc tăng gấp bội"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.NAME"
@@ -45230,7 +45206,7 @@ msgstr "Siêu năng suất"
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.DESC"
 msgid "This Duplicant kicks into hyperdrive when the stress is on"
-msgstr "Thằng Đệ này đá vào cổng chuyển khi bị stress"
+msgstr "Làm việc điên cuồng khi bị stress"
 
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.NAME"
@@ -45247,7 +45223,8 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.SHORT_DESC_TOOLTIP"
 msgid ""
 "More than 60% Stress: <b>+7</b> bonus to all <style=\"KKeyword\">Attributes</style>"
 msgstr ""
-"Stress hơn 60%: Tăng <b>+7</b> cho tất cả <style=\"KKeyword\">Thuộc tính</style>"
+"Khi stress đạt hơn 60%: <b>+7</b> điểm cho tất cả các <style=\"KKeyword\">Thuộc tính</"
+"style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY"
@@ -45256,12 +45233,12 @@ msgid ""
 "• "
 msgstr ""
 "\n"
-" • "
+"• "
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr "Nhẹ tựa lông hồng với đôi chân của mình"
+msgstr "Di chuyển nhẹ tự lông hồng"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
@@ -45272,19 +45249,17 @@ msgstr "Ngón chân lấp lánh"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid ""
 "If this Duplicant gets too <style=\"KKeyword\">Stressed</style> it won't be pretty"
-msgstr ""
-"Khi thằng Đệ này bị <style=\"KKeyword\">Stress</style> nặng, nó sẽ trông không xinh "
-"đẹp nữa"
+msgstr "Lúc <style=\"KKeyword\">Stress</style> nặng, đệ sẽ khóc nhè, trông xấu"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr "Khóc"
+msgstr "Khóc nhè"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has simply no appreciation for the arts"
-msgstr "Thằng đệ này không có hứng thú với nghệ thuật"
+msgstr "Không có hứng thú với nghệ thuật"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
@@ -45294,12 +45269,12 @@ msgstr "Vô văn hóa"
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the vitamin C in space couldn't stop this Duplicant from getting sick"
-msgstr "Tất cả Vitamin C trong không gian không thể giúp thằng Đệ này tránh được bệnh"
+msgstr "Uống bao nhiêu thuốc cũng vẫn mắc bệnh như thường"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
-msgstr "Nguy hiểm sinh học"
+msgstr "Dễ mắc bệnh"
 
 #. STRINGS.ELEMENTS.AEROGEL.DESC
 msgctxt "STRINGS.ELEMENTS.AEROGEL.DESC"
@@ -45319,9 +45294,9 @@ msgid ""
 "It can be used to produce <link=\"OXYGEN\">Oxygen</link> when used in a <link="
 "\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>"
 msgstr ""
-"Tảo là một dạng sống đơn bào không thể di chuyển được.\n"
+"Tảo là một dạng sống đơn bào, không thể di chuyển được.\n"
 "\n"
-"Tảo có thể sử dụng để tạo ra <link=\"OXYGEN\">Oxy</link> khi sử dụng <link="
+"Tảo có thể sử dụng để tạo ra <link=\"OXYGEN\">Oxy</link> khi cho vào <link="
 "\"MINITHDEOXIDIZER\">Máy xay tảo</link>"
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
@@ -45337,9 +45312,9 @@ msgid ""
 "It has high Thermal Conductivity and is suitable for building <link=\"POWER\">Power</"
 "link> systems."
 msgstr ""
-"(Al) Nhôm là một <link=\"REFINEDMETAL\">Kim Loại</link>có tỷ trọng thấp .\n"
+"(Al) Nhôm là một <link=\"REFINEDMETAL\">Kim Loại</link> nhẹ.\n"
 "\n"
-"Nó có tính dẫn nhiệt cao và phù hợp để xây dựng các hệ thống <link=\"POWER\">Điện</"
+"Nó có độ dẫn nhiệt rất cao và phù hợp để xây dựng các hệ thống <link=\"POWER\">Điện</"
 "link>."
 
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
@@ -45353,8 +45328,8 @@ msgid ""
 "(Al) Aluminum is a low density <link=\"REFINEDMETAL\">Metal</link> heated into a "
 "<link=\"ELEMENTSGAS\">Gaseous</link> state."
 msgstr ""
-"(Al) Nhôm là một nguyên tố <link=\"METAL\">kim loại</link> mềm được nung nóng chuyển "
-"thành thể <link=\"ELEMENTSGAS\">khí</link>."
+"(Al) Nhôm là một <link=\"METAL\">Kim loại</link> nhẹ được nung nóng và chuyển thành "
+"thể <link=\"ELEMENTSGAS\">khí</link>."
 
 #. STRINGS.ELEMENTS.ALUMINUMGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.NAME"
@@ -45368,8 +45343,7 @@ msgid ""
 "\n"
 "It can be refined into <link=\"ALUMINUM\">Aluminum</link>."
 msgstr ""
-"Quặng nhôm, còn được gọi là Bauxite, là một loại đá trầm tích có hàm lượng kim loại "
-"cao.\n"
+"Quặng nhôm, hay bô-xít, là một loại đá trầm tích có hàm lượng kim loại cao.\n"
 "\n"
 "Nó có thể được tinh chế thành <link=\"ALUMINUM\">Nhôm</link>."
 
@@ -45384,8 +45358,8 @@ msgid ""
 "Bitumen is a sticky viscous residue left behind from <link=\"PETROLEUM\">Petroleum</"
 "link> production."
 msgstr ""
-"Bitumen is a sticky viscous residue from <link=\"PETROLEUM\">Petroleum</link> "
-"production."
+"Bitumen là một cặn nhớt dính, sinh ra từ quá trình sản xuất <link=\"PETROLEUM\">Dầu "
+"hỏa</link>."
 
 #. STRINGS.ELEMENTS.BITUMEN.NAME
 msgctxt "STRINGS.ELEMENTS.BITUMEN.NAME"
@@ -45400,19 +45374,19 @@ msgid ""
 "\n"
 "It is useful in <link=\"HYGIENE\">Hygienic</link> processes."
 msgstr ""
-"Một hợp chất độc hại kém bền vững từ <link=\"CHLORINEGAS\">Khí Clo</link>.\n"
+"Một hợp chất kém bền, bốc ra <link=\"CHLORINEGAS\">Khí Clo</link>.\n"
 "\n"
-"Đá Tẩy Trắng có ích cho quá trình <link=\"HYGIENE\">Vệ sinh</link>."
+"Được dùng trong <link=\"HYGIENE\">Khử khuẩn</link>."
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
 msgid "<link=\"BLEACHSTONE\">Bleach Stone</link>"
-msgstr "<link=\"BLEACHSTONE\">Đá Tẩy Trắng</link>"
+msgstr "<link=\"BLEACHSTONE\">Đá Tẩy</link>"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
 msgid "(H<sub>2</sub>O) Clean <link=\"WATER\">Water</link>, prepped for transport."
-msgstr "(H<sub>2</sub>O) <link=\"WATER\">Nước</link> sạch, thích hợp để sử dụng."
+msgstr "(H<sub>2</sub>O) <link=\"WATER\">Nước</link> sạch."
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.NAME
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.NAME"
@@ -45431,7 +45405,7 @@ msgid ""
 "\n"
 "It is a reliable <b>Construction Material</b>."
 msgstr ""
-"Gạch là một vật liệu cứng, dễ vỡ được hình thành bằng cách nung <link=\"CLAY\">Đất "
+"Gạch là một vật liệu cứng, giòn. Được hình thành bằng cách nung <link=\"CLAY\">Đất "
 "sét</link>.\n"
 "\n"
 "Có thể được dùng làm <b>Vật liệu xây dựng</b>."
@@ -45449,10 +45423,10 @@ msgid ""
 "\n"
 "It can be used in desalination processes, separating out usable salt."
 msgstr ""
-"Nước biển là một dung dịch tự nhiên, đậm đặc của <link=\"SALT\">Muối</link> được hòa "
+"Nước biển là một dung dịch tự nhiên, có hàm lượng <link=\"SALT\">Muối</link> lớn hòa "
 "tan trong <link=\"WATER\">Nước</link>.\n"
 "\n"
-"Nó có thể được sử dụng trong quá trình khử muối, tách ra muối có thể sử dụng được."
+"Có thể đưa vào quá trình khử muối, tách ra muối có thể sử dụng được."
 
 #. STRINGS.ELEMENTS.BRINE.NAME
 msgctxt "STRINGS.ELEMENTS.BRINE.NAME"
@@ -45467,10 +45441,10 @@ msgid ""
 "\n"
 "It can be used in desalination processes, separating out usable salt."
 msgstr ""
-"Nước muối là một dung dịch tự nhiên, đậm đặc của <link=\"SALT\">Muối</link> được hòa "
+"Nước biển là một dung dịch tự nhiên, có hàm lượng <link=\"SALT\">Muối</link> lớn hòa "
 "tan trong <link=\"WATER\">Nước</link>.\n"
 "\n"
-"Nó có thể được sử dụng trong quá trình khử muối, tách ra muối có thể sử dụng được."
+"Có thể đưa vào quá trình khử muối, tách ra muối có thể sử dụng được."
 
 #. STRINGS.ELEMENTS.BRINEICE.NAME
 msgctxt "STRINGS.ELEMENTS.BRINEICE.NAME"
@@ -45486,7 +45460,7 @@ msgid ""
 msgstr ""
 "(C) Than đá - Một nhiên liệu hóa thạch có thành phần từ carbon.\n"
 "\n"
-"Than đá hữu ích cho việc sản xuất <link=\"POWER\">Điện</link>."
+"Than đá dùng trong việc sản xuất <link=\"POWER\">Điện</link>."
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
@@ -45501,15 +45475,15 @@ msgid ""
 "\n"
 "It tends to sink below other gases."
 msgstr ""
-"(CO<sub>2</sub>) là một hợp chất nguyên tử hóa học nặng ở thể <link=\"ELEMENTSGAS"
-"\">Khí</link>.\n"
+"(CO<sub>2</sub>) là một loại <link=\"ELEMENTSGAS\">Khí</link>, có khối lượng riêng "
+"lớn.\n"
 "\n"
-"Nó có xu hướng chìm xuống dưới các khí khác."
+"Có xu hướng chìm xuống dưới các khí khác."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "<link=\"CARBONDIOXIDE\">Carbon Dioxide</link>"
-msgstr "<link=\"CARBONDIOXIDE\">CO2</link>"
+msgstr "<link=\"CARBONDIOXIDE\">Carbonic</link>"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
@@ -45522,19 +45496,21 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "<link=\"CARBONFIBRE\">Carbon Fiber</link>"
-msgstr "<link=\"CARBONFIBRE\">Sợi Cacbon</link>"
+msgstr "<link=\"CARBONFIBRE\">Sợi Carbon</link>"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid ""
 "(C) Carbon is an abundant, versatile element heated into a <link=\"ELEMENTSGAS"
 "\">Gaseous</link> state."
-msgstr "(C) Nguyên tố dồi dào bị nung nóng thành thể <link=\"ELEMENTSGAS\">Khí</link>."
+msgstr ""
+"(C) Carbon là một nguyên tố dồi dào, đa năng được nung nóng thành <link=\"ELEMENTSGAS"
+"\">Gaseous</link>."
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "<link=\"CARBONGAS\">Carbon</link>"
-msgstr "<link=\"CARBONGAS\">Khí Cacbon</link>"
+msgstr "<link=\"CARBONGAS\">Khí Carbon</link>"
 
 #. STRINGS.ELEMENTS.CEMENT.DESC
 msgctxt "STRINGS.ELEMENTS.CEMENT.DESC"
@@ -45569,8 +45545,8 @@ msgid ""
 "\n"
 "It is a reliable <b>Construction Material</b>."
 msgstr ""
-"Gốm là một vật liệu cứng, dễ vỡ được hình thành bằng cách nung <link=\"CLAY\">Đất "
-"sét</link>.\n"
+"Gốm là một vật liệu cứng, giòn được hình thành bằng cách nung <link=\"CLAY\">Đất sét</"
+"link>.\n"
 "\n"
 "Có thể được dùng làm</b>Vật liệu xây dựng</b>."
 
@@ -45585,8 +45561,8 @@ msgid ""
 "(Cl) Chlorine is a natural <link=\"DISEASE\">Germ</link>-killing element in a <link="
 "\"ELEMENTSLIQUID\">Liquid</link> state."
 msgstr ""
-"(Cl) Một nguyên tố hóa học độc hại ở thể <link=\"ELEMENTSLIQUID\">Lỏng</link> giết "
-"chết <link=\"DISEASE\">Vi khuẩn</link>."
+"(Cl) Clo là sát thủ diệt <link=\"DISEASE\">Khuẩn</link> khi được hóa <link="
+"\"ELEMENTSLIQUID\">Lỏng</link>."
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
@@ -45599,8 +45575,8 @@ msgid ""
 "(Cl) Chlorine is a natural <link=\"DISEASE\">Germ</link>-killing element in a <link="
 "\"ELEMENTSGAS\">Gaseous</link> state."
 msgstr ""
-"(Cl) Một nguyên tố hóa học độc hại ở thể <link=\"ELEMENTSGAS\">Khí</link> giết chết "
-"<link=\"DISEASE\">Vi khuẩn</link>."
+"(Cl) Clo là sát thủ diệt <link=\"DISEASE\">Khuẩn</link>, tồn tại trong tự nhiên ở "
+"trạng thái <link=\"ELEMENTSGAS\">Khí</link>"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
@@ -45615,10 +45591,10 @@ msgid ""
 "\n"
 "It is a reliable <b>Construction Material</b>."
 msgstr ""
-"Đất sét là một hỗn hợp mềm, được tạo nên từ hỗn hợp đất và đá ở <link=\"HEAT\">Nhiệt "
-"Độ</link> cao.\n"
+"Đất sét là một hỗn hợp mềm, được tạo nên từ hỗn hợp đất và đá. Khi nung lên <link="
+"\"HEAT\">Nhiệt Độ</link> cao sẽ trở nên cứng hơn.\n"
 "\n"
-"Đất sét là một <b>Vật liệu xây dựng</b>."
+"Đất sét là một loại <b>Vật liệu xây dựng</b>."
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
@@ -45631,8 +45607,8 @@ msgid ""
 "(Co) Cobalt is a <link=\"REFINEDMETAL\">Refined Metal</link> made from <link="
 "\"COBALTITE\">Cobalt Ore</link>."
 msgstr ""
-"(Co) Cobalt là <link=\"REFINEDMETAL\">Kim loại tinh chế</link> được làm từ <link="
-"\"COBALTITE\"></link>."
+"(Co) Cobalt là một <link=\"REFINEDMETAL\">Kim loại tinh chế</link>, hình thành sau "
+"khi tinh chế <link=\"COBALTITE\">Quặng Cobalt</link>."
 
 #. STRINGS.ELEMENTS.COBALT.NAME
 msgctxt "STRINGS.ELEMENTS.COBALT.NAME"
@@ -45645,8 +45621,8 @@ msgid ""
 "(Co) Cobalt is a <link=\"REFINEDMETAL\">Refined Metal</link>, heated into a <link="
 "\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
-"(Co) Cobalt là <link=\"REFINEDMETAL\">Kim loại tinh chế</link>, được nung nóng thành "
-"<link=\"ELEMENTSGAS\">Khí</link>."
+"(Co) Cobalt là một <link=\"REFINEDMETAL\">Kim loại tinh chế</link>, được nung nóng "
+"thành <link=\"ELEMENTSGAS\">Khí</link>."
 
 #. STRINGS.ELEMENTS.COBALTGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COBALTGAS.NAME"
@@ -45660,7 +45636,7 @@ msgid ""
 "\n"
 "It is suitable for building <link=\"POWER\">Power</link> systems."
 msgstr ""
-"(Co)  là một <link=\"RAWMETAL\">Kim loại</link> màu xanh lam.\n"
+"(Co) Cobalt là một <link=\"RAWMETAL\">Kim loại</link> màu xanh lam.\n"
 "\n"
 "Nó phù hợp để xây dựng hệ thống <link=\"POWER\">Điện</link>."
 
@@ -45688,7 +45664,7 @@ msgid ""
 msgstr ""
 "(O<sub>2</sub>) Oxy bẩn mang vi khuẩn và mầm bệnh lưu truyền trong không khí.\n"
 "\n"
-"Có thể thở được nhưng độc hại."
+"Thở được nhưng không tốt, dễ mắc bệnh."
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
@@ -45702,9 +45678,9 @@ msgid ""
 "\n"
 "It is suitable for building <link=\"POWER\">Power</link> systems."
 msgstr ""
-"(Cu) Một <link=\"METAL\">Kim loại</link> dẫn điện.\n"
+"(Cu) Một <link=\"METAL\">Kim loại</link> dẫn điện tốt.\n"
 "\n"
-"Đồng thích hợp cho việc xây dựng hệ thống công trình <link=\"POWER\">Điện</link>."
+"Đồng thích hợp cho việc xây dựng hệ thống <link=\"POWER\">Điện</link>."
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
@@ -45717,8 +45693,8 @@ msgid ""
 "(Cu) Copper is a conductive <link=\"METAL\">Metal</link> heated into a <link="
 "\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
-"(Cu) Một <link=\"METAL\">Kim loại</link> dẫn điện nóng chảy thành thể <link="
-"\"ELEMENTSGAS\">Khí Gas</link>."
+"(Cu) Đồng là một <link=\"METAL\">Kim loại</link> dẫn điện tốt, nóng chảy thành thể "
+"<link=\"ELEMENTSGAS\">Khí Gas</link>."
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
@@ -45750,7 +45726,7 @@ msgid ""
 msgstr ""
 "(DuPe) Ooze là một hỗn hợp nước, carbon cùng với hàng chục nguyên tố vi lượng.\n"
 "\n"
-"Mấy thằng Đệ được in ra từ <link=\"SOLID\">Ooze</link>."
+"Mấy thằng Đệ được in ra từ <link=\"SOLID\">Ooze</link> nguyên chất."
 
 #. STRINGS.ELEMENTS.CREATURE.NAME
 msgctxt "STRINGS.ELEMENTS.CREATURE.NAME"
@@ -46420,13 +46396,13 @@ msgid ""
 "\n"
 "This selection is currently in a <link=\"ELEMENTSLIQUID\">Liquid</link> state."
 msgstr ""
-"(CO<sub>2</sub>) Cacbon dioxit - một hợp chất độc hại. Trạng thái hiện tại là thể "
+"(CO<sub>2</sub>) Carbon dioxit - một hợp chất độc hại. Trạng thái hiện tại là thể "
 "<link=\"ELEMENTSLIQUID\">Lỏng</link>."
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "<link=\"LIQUIDCARBONDIOXIDE\">Carbon Dioxide</link>"
-msgstr "<link=\"LIQUIDCARBONDIOXIDE\">CO2 Lỏng</link>"
+msgstr "<link=\"LIQUIDCARBONDIOXIDE\">Carbonic Lỏng</link>"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
@@ -47247,7 +47223,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.REFINEDCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.REFINEDCARBON.NAME"
 msgid "<link=\"REFINEDCARBON\">Refined Carbon</link>"
-msgstr "<link=\"REFINEDCARBON\">Cacbon tinh chế</link>"
+msgstr "<link=\"REFINEDCARBON\">Carbon tinh chế</link>"
 
 #. STRINGS.ELEMENTS.REGOLITH.DESC
 msgctxt "STRINGS.ELEMENTS.REGOLITH.DESC"
@@ -47481,7 +47457,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "<link=\"SOLIDCARBONDIOXIDE\">Carbon Dioxide</link>"
-msgstr "<link=\"SOLIDCARBONDIOXIDE\">CO2 Rắn</link>"
+msgstr "<link=\"SOLIDCARBONDIOXIDE\">Carbonic Rắn</link>"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
@@ -48282,8 +48258,8 @@ msgid ""
 msgstr ""
 "Cung cấp cho các Thằng Đệ tăng chức năng não.\n"
 "\n"
-"Được cung cấp bởi các Nghệ sĩ khinh khí cầu với phản hồi <link=\"MORALE\">Vui mừng "
-"quá mức</link>."
+"Được cung cấp bởi các Nghệ sĩ khinh khí cầu với phản hồi <link=\"MORALE\">Yêu đời</"
+"link>."
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.GENERICNAME"
@@ -48305,8 +48281,8 @@ msgid ""
 msgstr ""
 "Cung cấp cho các Thằng Đệ tăng chức năng não.\n"
 "\n"
-"Được cung cấp bởi các Nghệ sĩ khinh khí cầu với phản hồi <link=\"MORALE\">Vui mừng "
-"quá mức</link>."
+"Được cung cấp bởi các Nghệ sĩ khinh khí cầu với phản hồi <link=\"MORALE\">Yêu đời</"
+"link>."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC"
@@ -53213,7 +53189,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME"
 msgid "No <link=\"DOCTORSTATION\">Sick Bay</link> built"
-msgstr "Không có <link=\"DOCTORSTATION\">Khu Chữa Trị</link> được xây"
+msgstr "Không có <link=\"DOCTORSTATION\">Bệnh xá</link> được xây"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
@@ -53225,7 +53201,7 @@ msgid ""
 msgstr ""
 "Không có nơi nào chăm sóc cho thằng đệ bị ốm\n"
 "------------------\n"
-"<link=\"DOCTORSTATION\">Khu chữa trị</link> có thể được xây trong <b>Tab Y học</b> "
+"<link=\"DOCTORSTATION\">Bệnh xá</link> có thể được xây trong <b>Tab Y học</b> "
 "<b><color=#F44A4A>[8]</style></b>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME
@@ -58825,7 +58801,7 @@ msgid ""
 "link> or pull <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> from the air."
 msgstr ""
 "Sử dụng chất lỏng được bơm để loại bỏ <link=\"SALT\">Salt</link> khỏi <link=\"BRINE"
-"\">Nước Biển</link> hoặc rút <link=\"CARBONDIOXIDE\">CO2</link> từ không khí."
+"\">Nước Biển</link> hoặc rút <link=\"CARBONDIOXIDE\">Carbonic</link> từ không khí."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME"
@@ -61033,7 +61009,7 @@ msgid ""
 "\"CARBONDIOXIDE\">Carbon Dioxide</link> rich environment of the Oil Biome."
 msgstr ""
 "Các vũng nhớt của <link=\"CRUDE OIL\">Dầu thô</pink> đi kèm <link=\"CARBONDIOXIDE"
-"\">CO2</link> của Biome Dầu."
+"\">Carbonic</link> của Biome Dầu."
 
 #. STRINGS.SUBWORLDS.OIL.NAME
 msgctxt "STRINGS.SUBWORLDS.OIL.NAME"
@@ -61059,8 +61035,8 @@ msgid ""
 "my colony far outweigh the risks."
 msgstr ""
 "Mặc dù <link=\"OXYGEN\">Oxy</link> khan hiếm hơn trong Biome này, nhưng đây là nơi lý "
-"tưởng để nuôi trồng các loài động thực vật phát triển mạnh trong CO2, chẳng hạn như "
-"thuần hóa <link=\"OILFLOATERSPECIES\">Slicksters</link> để tạo ra dầu.\n"
+"tưởng để nuôi trồng các loài động thực vật phát triển mạnh trong Carbonic, chẳng hạn "
+"như thuần hóa <link=\"OILFLOATERSPECIES\">Slicksters</link> để tạo ra dầu.\n"
 "\n"
 "Đôi khi có thể tìm thấy các mỏ <link=\"DIAMOND\">Kim cương</link> trong Biome Dầu, "
 "Biome này sẽ yêu cầu thằng đệ có kỹ năng <link=\"SENIORMINER\">Thợ Mỏ Cao Cấp</link> "
@@ -77636,7 +77612,7 @@ msgid ""
 "Harvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST"
 "\">Drillcone</link>."
 msgstr ""
-"Tạo soda từ <link=\"WATER\">Nước</link> và <link=\"CARBONDIOXIDE\">CO2</link>.\n"
+"Tạo soda từ <link=\"WATER\">Nước</link> và <link=\"CARBONDIOXIDE\">Carbonic</link>.\n"
 "\n"
 "Uống nước soda giúp đệ tăng <link=\"MORALE\">Tinh thần</link>."
 
