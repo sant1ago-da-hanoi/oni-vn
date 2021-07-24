@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONI VN EX-1 S10-461546 (DLC)\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-24 10:37+0700\n"
+"PO-Revision-Date: 2021-07-24 11:38+0700\n"
 "Last-Translator: Hoài Nam <sant1ago.da.hanoi@outlook.com>\n"
 "Language-Team: ONI VN Translators (facebook.com/groups/VN.ONI)\n"
 "Language: vi\n"
@@ -45718,6 +45718,7 @@ msgid "<link=\"CORIUM\">Corium</link>"
 msgstr "<link=\"CORIUM\">Corium</link>"
 
 #. STRINGS.ELEMENTS.CREATURE.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CREATURE.DESC"
 msgid ""
 "(DuPe) Ooze is a slurry of water, carbon, and dozens and dozens of trace elements.\n"
@@ -67002,27 +67003,27 @@ msgstr "{0} giây"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
-msgstr "Ngoại cảnh"
+msgstr "Âm lượng ngoại cảnh"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
 msgid "Master"
-msgstr "Tổng"
+msgstr "Âm lượng tổng"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC"
 msgid "Music"
-msgstr "Nhạc"
+msgstr "Âm lượng nhạc"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX"
 msgid "SFX"
-msgstr "SFX"
+msgstr "Âm lượng hiệu ứng"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI"
 msgid "UI"
-msgstr "Giao diện người dùng"
+msgstr "Âm lượng giao diện"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS"
@@ -67035,8 +67036,8 @@ msgid ""
 "If enabled, automation sound effects will play even when outside of the <b>Automation "
 "Overlay</b>"
 msgstr ""
-"Khi kích hoạt, âm thanh của hệ thống tự động sẽ được phát ngay cả khi đang ở ngoài "
-"chế độ <b>Lớp phủ tự động hóa</b>"
+"Khi kích hoạt, âm thanh của hệ thống tự động sẽ được phát kể cả khi <b>Lớp phủ tự "
+"động hóa</b> không bật"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
@@ -67061,7 +67062,7 @@ msgstr "Phát nhạc nền mỗi buổi sáng"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
 msgid "If enabled, background music will play every cycle instead of every few cycles"
-msgstr "Nếu bật, nhạc nền sẽ phát mỗi Cycle thay vì cứ vài Cycle nó phát một lần"
+msgstr "Nếu bật, mỗi cycle nhạc sẽ phát một lần (thay vì cứ vài cycle phát một lần)"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST"
@@ -67072,9 +67073,7 @@ msgstr "Tắt tiếng khi không tập trung"
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP"
 msgid ""
 "If enabled, the game will be muted while minimized or if the application loses focus"
-msgstr ""
-"Nếu được bật, trò chơi sẽ bị tắt tiếng trong khi thu nhỏ hoặc nếu ứng dụng mất tiêu "
-"điểm"
+msgstr "Nếu được bật, trò chơi sẽ không phát âm thanh khi bạn tab ra ứng dụng khác"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
@@ -67098,9 +67097,9 @@ msgid ""
 "Smaller starting asteroids with resources distributed across the starmap. More "
 "emphasis on space travel."
 msgstr ""
-"Các tình huống được thiết kế cho <b>Spaced Out! DLC</b>.\n"
-"Các tiểu hành tinh bắt đầu nhỏ hơn với các nguồn tài nguyên được phân bổ trên bản đồ "
-"vũ trụ. Nhấn mạnh hơn vào du hành không gian."
+"Các kịch bản được thiết kế cho <b>Spaced Out! DLC</b>.\n"
+"Các tiểu hành tinh bắt đầu nhỏ, các nguồn tài nguyên được phân bổ trên khắp bản đồ vũ "
+"trụ. Nhấn mạnh hơn vào du hành không gian."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE"
@@ -67114,8 +67113,8 @@ msgid ""
 "starting asteroids with many resources.\n"
 "Less emphasis on space travel."
 msgstr ""
-"Các tình huống tương tự như trải nghiệm <b>Oxygen Not Included Bản Gốc</b>. Tiểu hành "
-"tinh khởi đầu lớn với nhiều tài nguyên.\n"
+"Các kịch bản tương tự <b>Oxygen Not Included Bản Gốc</b>. Tiểu hành tinh khởi đầu lớn "
+"với nhiều tài nguyên.\n"
 "Ít nhấn mạnh vào du hành không gian."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE
@@ -67126,7 +67125,7 @@ msgstr "Classic"
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY"
 msgid "Autosave frequency:"
-msgstr "Tần số tự động lưu:"
+msgstr "Chu kỳ tự động lưu:"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY_DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY_DESCRIPTION"
@@ -67141,7 +67140,7 @@ msgstr "Không bao giờ"
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.DESCRIPTION"
 msgid "Note: These values are configured per save file"
-msgstr "Lưu ý: Các giá trị này được định cấu hình cho mỗi tệp lưu"
+msgstr "Lưu ý: Các giá trị này được cấu hình cho từng tệp lưu"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.TIMELAPSE_DISABLED_DESCRIPTION"
@@ -67192,7 +67191,7 @@ msgstr "Khu dân cư"
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLE"
 msgid "Shuffle"
-msgstr "Xáo trộn"
+msgstr "Đổi ngẫu nhiên"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP"
@@ -67208,7 +67207,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_GAME
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_GAME"
 msgid "Start Game"
-msgstr "Bắt đầu"
+msgstr "Bắt đầu trò chơi"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_SITE
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.START_SITE"
@@ -67231,54 +67230,54 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DEFAULT."
 "TOOLTIP"
 msgid "Default calorie burn rate"
-msgstr "Tốc độ đốt cháy calo mặc định"
+msgstr "Tốc độ tiêu hóa mặc định"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Tummyless (No Hunger)"
-msgstr "Không Không bụng (Không đói)"
+msgstr "Người không bụng (Không bao giờ đói)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED."
 "NAME"
 msgid "Tummyless"
-msgstr "Không bụng"
+msgstr "Người không bụng"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.DISABLED."
 "TOOLTIP"
 msgid "These Duplicants were printed without tummies and need no food at all"
-msgstr "Những thằng đệ này được in mà không có bụng và không cần thức ăn"
+msgstr "Đệ được in ra mà không có bụng nên cũng chẳng cần ăn uống gì luôn"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Fasting (Difficulty Down)"
-msgstr "Nhanh (Bớt khó)"
+msgstr "Nhanh (Bớt khó hơn một chút)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.NAME"
 msgid "Fasting"
-msgstr "Nhịn ăn"
+msgstr "Nhanh hơn"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.EASY.TOOLTIP"
 msgid "Duplicants burn calories slowly and get by with fewer meals"
-msgstr "Bọn đệ đốt cháy calo chậm và có được với ít bữa ăn hơn"
+msgstr "Bọn đệ tiêu hóa chậm, cần ít thức ăn hơn"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Rumbly Tummies (Difficulty Up)"
-msgstr "Bụng béo (Khó lên)"
+msgstr "Bụng béo (Khó hơn)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.NAME
 msgctxt ""
@@ -67290,7 +67289,7 @@ msgstr "Bụng béo"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.HARD.TOOLTIP"
 msgid "Duplicants burn calories quickly and require more feeding than usual"
-msgstr "Thằng đệ sẽ đốt cháy calo nhanh chóng và cần cho ăn nhiều hơn bình thường"
+msgstr "Đệ tiêu hóa nhanh, cần ăn nhiều hơn"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.VERYHARD.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
@@ -67311,7 +67310,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.LEVELS.VERYHARD."
 "TOOLTIP"
 msgid "Your Duplicants are on a see-food diet... They see food and they eat it"
-msgstr "Thằng đệ của bạn đang trong chế độ ăn kiêng ... Họ thấy thực phẩm và họ ăn nó"
+msgstr "Đệ phàm ăn, thấy đồ ăn ở đâu là ăn ở đó"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.NAME"
@@ -67321,21 +67320,21 @@ msgstr "Đói"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CALORIE_BURN.TOOLTIP"
 msgid "Affects how quickly Duplicants burn calories and become hungry"
-msgstr "Ảnh hưởng đến việc sao chép nhanh chóng đốt cháy calo và trở nên đói"
+msgstr "Ảnh hưởng tới tốc độ tiêu hóa của đệ"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.DUPLICANTS_ONLY.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS."
 "DUPLICANTS_ONLY.NAME"
 msgid "Duplicants Only"
-msgstr "Chỉ Thằng Đệ"
+msgstr "Chỉ in Đệ"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.DUPLICANTS_ONLY.TOOLTIP
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS."
 "DUPLICANTS_ONLY.TOOLTIP"
 msgid "Unchecked: The Printing Pod will only offer Duplicant blueprints"
-msgstr "Bỏ chọn: Máy in sẽ chỉ cung cấp thằng đệ"
+msgstr "Bỏ chọn: Máy in sẽ chỉ ra đệ"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.LEVELS.NORMAL.NAME
 msgctxt ""
@@ -67350,17 +67349,17 @@ msgctxt ""
 msgid ""
 "Checked: The Printing Pod will offer both Duplicant blueprints and care packages "
 "(Default)"
-msgstr "Đã kiểm tra: Máy in sẽ cung cấp cả bọn đệ và gói chăm sóc (Mặc định)"
+msgstr "Tích chọn: Máy in sẽ in cả bọn đệ và gói tiếp tế (Mặc định)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.NAME"
 msgid "Care Packages"
-msgstr "Gói Chăm Sóc"
+msgstr "Gói tiếp tế"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CAREPACKAGES.TOOLTIP"
 msgid "Affects what resources can be printed from the Printing Pod"
-msgstr "Ảnh hưởng đến những gì có thể được in từ Máy in Sinh Học"
+msgstr "Ảnh hưởng đến những tài nguyên nào có thể được in ra từ Máy in Sinh Học"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CLUSTER_CHOICE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.CLUSTER_CHOICE.NAME"
@@ -67383,14 +67382,14 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.DEFAULT."
 "TOOLTIP"
 msgid "Default suit durability"
-msgstr "Độ bền của bộ đồ mặc định"
+msgstr "Độ bền của bộ đồ (mặc định)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY."
 "ATTRIBUTE_MODIFIER_NAME"
 msgid "Flimsy Suits (Difficulty Up)"
-msgstr "Bộ đồ mỏng manh (Khó lên)"
+msgstr "Bộ đồ mỏng manh (Khó hơn)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.NAME
 msgctxt ""
@@ -67402,21 +67401,21 @@ msgstr "Mỏng manh"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.TOOLTIP"
 msgid "Suits wear out faster than usual"
-msgstr "Các bộ đồ bị hỏng nhanh hơn bình thường"
+msgstr "Các bộ đồ sẽ hỏng nhanh hơn bình thường"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.ATTRIBUTE_MODIFIER_NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "INDESTRUCTIBLE.ATTRIBUTE_MODIFIER_NAME"
 msgid "Indestructible Suits (No Durability)"
-msgstr "Bộ quần áo không thể phá hủy (Không có độ bền)"
+msgstr "Bộ đồ bất hoại (Độ bền vô cực)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS."
 "INDESTRUCTIBLE.NAME"
 msgid "Indestructible"
-msgstr "Không thể phá hủy"
+msgstr "Không thể hỏng được"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.INDESTRUCTIBLE.TOOLTIP
 msgctxt ""

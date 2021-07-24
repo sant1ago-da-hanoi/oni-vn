@@ -13,7 +13,7 @@
 
 ## Biên dịch bởi (Translate by) O.N.I VN Translators Team:
 > (The Breath Of Fresh Air - cho đến nay)
-- [`Hoài Nam`](fb.com/sant1ago.da.hanoi)
+- [`Hoài Nam`](fb.com/sant1ago.da.hanoi){target="_blank"}
 
 > (Quality of Life Upgrade Mk III - cho đến nay)
 - [`Nguyễn Thái Bảo`](https://fb.com/chuotktpm)
